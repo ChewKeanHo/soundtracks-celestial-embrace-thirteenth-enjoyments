@@ -1,19 +1,27 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Celestial Embrace - Thirteenth Enjoyments | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+Wanna enjoy the lovingly peaceful melody? Here's a track for you. Another
+great attempts for increasing the choices of selections.
 
 ```
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #chillwave #chillout #femalevocal
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/13_Celestial-Embrace-Thirteenth-Enjoyments.mp3
+  Size: 5953536         Blocks: 11632      IO Block: 4096   regular file
+Device: 253,2   Inode: 42084321    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/      u0)   Gid: ( 1000/      u0)
+Access: 2025-11-09 17:17:07.095483570 +0800
+Modify: 2025-11-09 17:17:08.667491412 +0800
+Change: 2025-11-09 17:17:08.667491412 +0800
+ Birth: 2025-07-20 11:53:33.846221347 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-05-10
+On YouTube since : 2026-02-08
 ```
 
-[YouTube](#)
+[YouTube](https://www.youtube.com/watch?v=Quj2kTa4IpE)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -46,9 +54,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Celestial Embrace - Thirteenth Enjoyments
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-celestial-embrace-thirteenth-enjoyments
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
