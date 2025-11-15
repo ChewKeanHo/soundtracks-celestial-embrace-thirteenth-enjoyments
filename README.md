@@ -10,9 +10,7 @@ great attempts for increasing the choices of selections.
 
   File: Audios/13_Celestial-Embrace-Thirteenth-Enjoyments.mp3
   Size: 5953536         Blocks: 11632      IO Block: 4096   regular file
-Device: 253,2   Inode: 42084321    Links: 1
-Access: (0644/-rw-r--r--)  Uid: ( 1000/      u0)   Gid: ( 1000/      u0)
-Access: 2025-11-09 17:17:07.095483570 +0800
+Access: 2025-11-15 15:27:12.362229936 +0800
 Modify: 2025-11-09 17:17:08.667491412 +0800
 Change: 2025-11-09 17:17:08.667491412 +0800
  Birth: 2025-07-20 11:53:33.846221347 +0800
@@ -34,6 +32,7 @@ On YouTube since : 2026-02-08
 * [Agreed OBS Waveform License](.internals/terms-of-services/OBS_Waveform_LICENSE.txt)
 * [Agreed UDIO Terms of Service](.internals/terms-of-services/Udio-Terms-of-Service.pdf)
 * [Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
+* [20251030 UDIO Severances](https://github.com/ChewKeanHo/press-20251030-severances-from-udio)
 
 
 
@@ -54,11 +53,14 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : Celestial Embrace - Thirteenth Enjoyments
-Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-celestial-embrace-thirteenth-enjoyments
-License: (Holloway) Chew, Kean Ho's Proprietary License
-Procure: Coming Soon
+Title: Celestial Embrace - Thirteenth Enjoyments
+Creators: (Holloway) Chew, Kean Ho + UDIO
+Contact: hello@hollowaykeanho.com
+SKU: chewkeanho-soundtracks-celestial-embrace-thirteenth-enjoyments
+License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
+Made On: 2025-05-10 (before 2025-10-30 terms of service changes)
+Made From: https://www.udio.com/
+Procure: https://github.com/ChewKeanHo/soundtracks-celestial-embrace-thirteenth-enjoyments
 --------------------------------------------------------------------------------
 ```
 
